@@ -1,5 +1,5 @@
 
-Hello world, my name is Cristian Menjivar!
+Hello all, my name is Cristian Menjivar!
 🎓 CS student @ Rutgers – NB                                                                                                            
 💻 Efficient in Python & Java                                                                                                                
 🌱 Exploring backend development and data analytics                                                                                    
