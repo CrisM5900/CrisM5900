@@ -1,9 +1,9 @@
 
 Hello world, my name is Cristian Menjivar!
-🎓 CS student @ Rutgers – NB
-💻 Efficient in Python & Java
-🌱 Exploring backend development and data analytics
-📫 Connect with me:
+🎓 CS student @ Rutgers – NB                                                                                                            
+💻 Efficient in Python & Java                                                                                                                
+🌱 Exploring backend development and data analytics                                                                                    
+📫 Connect with me:                                                                                                                                            
 <!--
 **CrisM5900/CrisM5900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
